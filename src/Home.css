@@ -1,0 +1,54 @@
+
+#logout{
+
+	display: inline;
+	margin-left: 600px;
+	justify-content: center;
+}
+
+
+
+/* CardStyle.css */
+.cards-align{
+	display: flex;
+	margin-top: 20px;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+  
+  #text-color{
+	color: black;
+  }
+
+  #icon{
+	float: inline-end;
+	margin-top: -80px;
+  }
+
+  #icon1{
+	float: inline-end;
+	margin-top: -80px;
+	color: black;
+  }
+
+  #arrow-icon{
+	float: inline-end;
+  }
+
+  #arrow-icon1{
+	float: inline-end;
+	color: black;
+  }
+
+
+
+@media (max-width: 600px) {
+	.CardContainer, .CardContainer1 {
+	  width: 100%;
+	}
+  }
+
+.bg-color{
+	background-color: #c196f6;
+
+}

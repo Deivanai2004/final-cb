@@ -1,0 +1,50 @@
+
+.App{
+  text-align: center;
+  align-items: center;
+  margin-top: 130px;
+  
+}
+
+#title {
+  margin-top:10px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.mb-3{
+  width: 300px;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.mb-4{
+  width: 300px;
+ 
+}
+.Alignment{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.footer{
+  margin-top: 60px;
+}
+
+.checkbox{
+  margin-top: -20px;
+  margin-left: -169px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+#para{
+  margin-top: 15px;
+  margin-left: 10px;
+}
+/* App.css */
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+}
